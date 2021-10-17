@@ -1,1 +1,1 @@
-# spring-rabbitmq
+# spring-rabbit

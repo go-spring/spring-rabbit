@@ -1,3 +1,3 @@
-module github.com/go-spring/spring-rabbitmq
+module github.com/go-spring/spring-rabbit
 
 go 1.14
